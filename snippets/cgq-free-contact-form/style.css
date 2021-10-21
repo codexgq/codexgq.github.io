@@ -1,0 +1,59 @@
+/*!
+*
+* Free Contact Form CSS
+* Written by Monty Shokeen
+* Copyright 2021 Envato Tuts+
+* Terms: https://tutsplus.com/terms-of-use
+*
+* cgq-free-contact-form
+* Written by Alexey Mitkin (GitHub: https://github.com/mitkine)
+* Copyright 2021 codexgq, Inc. (https://codex.gq/)
+* GitHub: https://github.com/codexgq/startbootstrap-creative-codexgq/cgq-contact-form
+* Licensed under MIT (https://github.com/codexgq/startbootstrap-creative-codexgq/blob/master/LICENSE)
+*
+* Cascading Style Sheets (CSS) (https://www.w3.org/Style/CSS/)
+* Created and maintained by the CSS Working Group (Bert Bos, style activity lead)
+* Copyright © 1994–2021 W3C®
+* Privacy Policy: https://www.w3.org/Consortium/Legal/2002/ipr-notice-20021231
+*
+*/
+
+div.elem-group {
+  margin: 40px 0;
+}
+
+label {
+  display: block;
+  font-family: 'Aleo';
+  padding-bottom: 4px;
+  font-size: 1.25em;
+}
+
+input, select, textarea {
+  border-radius: 2px;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  font-size: 1.25em;
+  font-family: 'Aleo';
+  width: 500px;
+  padding: 8px;
+}
+
+textarea {
+  height: 250px;
+}
+
+button {
+  height: 50px;
+  background: green;
+  color: white;
+  border: 2px solid darkgreen;
+  font-size: 1.25em;
+  font-family: 'Aleo';
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  border: 2px solid black;
+}
