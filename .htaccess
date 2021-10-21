@@ -1,6 +1,0 @@
-Options All -Indexes +FollowSymLinks
-ServerSignature Off
-AddDefaultCharset UTF-8
-DefaultLanguage en
-php_value date.timezone Europe/Moscow
-DirectoryIndex index.html index.php
