@@ -1,0 +1,7 @@
+External CSS ::
+
+https://fonts.googleapis.com/css?family=Aleo
+
+External JavaScript ::
+
+This Pen doesn't use any external JavaScript resources.
